@@ -3,3 +3,4 @@
 *.keystore
 *.jks
 .env
+!apks/**/*.apk

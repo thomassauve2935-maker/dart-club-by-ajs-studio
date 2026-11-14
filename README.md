@@ -6,14 +6,14 @@ Application Android de fléchettes : **15 jeux**, **1 à 8 joueurs**, profils lo
 
 ## Télécharger l’application
 
-**[Télécharger l’APK de test V0.9](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/releases/download/v0.9.0-test/Dart_Club_By_AJS_Studio_V0_9_Test.apk)**
+**[Télécharger l’APK de test V0.9](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/raw/refs/tags/v0.9.0-test/apks/v0.9.0-test/Dart_Club_By_AJS_Studio_V0_9_Test.apk)**
 
 [Voir toutes les versions et leurs APK](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/releases)
 
 - Android **8.0 ou plus récent**.
 - Version : **0.9.0-club-test**, code 10.
 - Version de test publiée le **14 novembre 2026**.
-- Les APK sont disponibles dans les pièces jointes des **Releases**.
+- Chaque **Release** propose un lien direct vers son APK. Les fichiers sont conservés dans le dossier `apks/`.
 
 ## Installer une APK
 
