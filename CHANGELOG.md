@@ -1,5 +1,15 @@
 # Notes de version
 
+## V0.12 — 14 novembre 2026
+
+Version de test `0.12.0-club-test`, code 13, Android 8.0 minimum.
+
+- Nouveau logo plus explicite : cible traditionnelle, anneaux de score et fléchette dans le centre.
+- Logo intégré aux en-têtes, à l’accueil des profils et à l’icône Android.
+- Variante monochrome dédiée et marges adaptées aux masques d’icônes Android.
+- Logos complets PNG/SVG disponibles ; palette claire et publicités désactivées conservées.
+- 22 tests réussis, rapport Android Lint sans erreur ni avertissement, signature identique à la V0.11.
+
 ## V0.11 — 14 novembre 2026
 
 Version de test `0.11.0-club-test`, code 12, Android 8.0 minimum.
