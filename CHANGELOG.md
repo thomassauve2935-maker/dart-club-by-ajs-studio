@@ -1,5 +1,16 @@
 # Notes de version
 
+## V0.10 — 14 novembre 2026
+
+Version de test `0.10.0-club-test`, code 11, pour Android 8.0 et versions ultérieures.
+
+- Catalogue : 501 en vedette, illustration vectorielle et accès direct à la préparation ; quinze modes conservés.
+- Finition : anthracite, surfaces et bordures affinées, navigation active rouge.
+- Profils : statistiques sans cartes imbriquées, avatar avec initiale et menu Renommer/Supprimer.
+- Match : score du joueur actif agrandi et accentué, sur téléphone et tablette.
+- Cible statistique : simples, doubles, triples, 25 et bull conservés séparément.
+- 20 tests réussis et rapport Android Lint sans erreur ni avertissement. Signature de test identique à la V0.9.
+
 ## V0.9 — 14 novembre 2026
 
 Version de test `0.9.0-club-test`, code 10, pour Android 8.0 et versions ultérieures.
