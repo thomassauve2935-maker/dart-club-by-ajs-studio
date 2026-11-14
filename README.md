@@ -6,46 +6,46 @@ Application Android de fléchettes : **15 jeux**, **1 à 8 joueurs**, profils lo
 
 ## Télécharger l’application
 
-**[Télécharger l’APK de test V0.10](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/raw/refs/tags/v0.10.0-test/apks/v0.10.0-test/Dart_Club_By_AJS_Studio_V0_10_Test.apk)**
+**[Télécharger l’APK V0.11 — couleurs claires, sans publicité](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/raw/refs/tags/v0.11.0-test/apks/v0.11.0-test/Dart_Club_By_AJS_Studio_V0_11_Test.apk)**
 
-[Voir toutes les versions et leurs APK](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/releases)
+[Voir toutes les versions](https://github.com/thomassauve2935-maker/dart-club-by-ajs-studio/releases)
 
 - Android **8.0 ou plus récent**.
-- Version : **0.10.0-club-test**, code 11.
-- Version de test publiée le **14 novembre 2026**.
-- Chaque **Release** propose un lien direct vers son APK. Les fichiers sont conservés dans le dossier `apks/`.
+- Version de test **0.11.0-club-test**, code **12**, publiée le **14 novembre 2026**.
+- **Aucune publicité active**, ni de démonstration ni commerciale. Aucun bandeau vide ne réserve de place.
+- Chaque Release propose un lien direct vers son APK, conservée dans `apks/`.
 
-## Installer une APK
+## Installer ou mettre à jour
 
-1. Télécharger le fichier `.apk` depuis le téléphone Android.
-2. Ouvrir le fichier et autoriser l’installation depuis le navigateur ou le gestionnaire de fichiers si Android le demande.
-3. Ouvrir **Dart Club By AJS Studio**.
+1. Télécharger le fichier `.apk` sur le téléphone Android.
+2. L’ouvrir et autoriser l’installation depuis le navigateur ou le gestionnaire de fichiers si Android le demande.
+3. Installer la mise à jour puis ouvrir **Dart Club By AJS Studio**.
 
-La V0.10 utilise la même signature de test que la V0.9 publiée ici : elle peut être installée par-dessus pour conserver les profils et les statistiques locales.
+La signature de test est identique à celle de la V0.10 publiée ici : installer la V0.11 par-dessus pour conserver les profils et statistiques locaux, sans désinstaller la V0.10.
 
-## Aperçu V0.10
+## Aperçu V0.11
 
-| Catalogue | Profil et précision | Match |
+| Catalogue coloré | Profils et précision | Match |
 | :---: | :---: | :---: |
-| <img src="assets/v0.10/catalogue.png" width="240" alt="Catalogue avec le 501 en vedette"> | <img src="assets/v0.10/profils.png" width="240" alt="Profil, statistiques et cible doubles triples"> | <img src="assets/v0.10/match.png" width="240" alt="Tableau de score et clavier"> |
+| <img src="assets/v0.11/catalogue.png" width="240" alt="Catalogue clair et cartes colorées"> | <img src="assets/v0.11/profils.png" width="240" alt="Statistiques colorées et cible doubles triples"> | <img src="assets/v0.11/match.png" width="240" alt="Score et clavier sur fond clair"> |
 
 Rendus des vues Android avec Robolectric ; données de démonstration dans les aperçus.
 
 ## Dans cette version
 
-- 501 mis en vedette avec cible vectorielle, et quatorze autres jeux accessibles dans le catalogue.
-- Palette anthracite, navigation rouge et score actif plus visible.
-- Profils aérés, initiales et menu de gestion à côté du nom.
-- Invités sans compte ou profils enregistrés sur l’appareil.
+- Fond clair bleuté, cartes blanches et accents bleu, menthe, ambre, violet et rouge.
+- 501 en vedette et quatorze autres jeux accessibles dans le même catalogue.
+- Invités sans compte ou profils enregistrés localement.
 - Statistiques séparant simples, doubles, triples, 25 et bull.
-- Enregistrement du résultat, annulation, revanche et reprise des parties.
-- Renommage des joueurs avec conservation des statistiques.
-- Grandes commandes, préparation adaptée aux petits écrans et affichage du match sur tablette.
+- Résultat sauvegardé, annulation, revanche, reprise et renommage des profils.
+- Grandes commandes, préparation compacte et match en deux colonnes sur tablette.
 
-**Vérifications V0.10 :** 20 tests automatisés réussis, 120 parties terminées puis rejouées, contrôle Android Lint sans erreur ni avertissement, signature de l’APK vérifiée. L’essai sur téléphone physique reste à effectuer.
+Les futurs emplacements publicitaires sont préparés mais désactivés : un bandeau adaptatif et une occasion d’interstitiel à la fin de chaque match sauvegardé, jamais entre les legs. Une annulation/revalidation ne crée pas de doublon. Leur activation nécessitera une configuration AdMob réelle et explicite.
 
-L’empreinte SHA-256 est fournie dans `SHA256SUMS.txt` et dans la Release correspondante.
+**Vérifications V0.11 :** 22 tests automatisés réussis, rapport Android Lint sans erreur ni avertissement, manifeste sans initialisation automatique AdMob et signature APK vérifiée. L’essai de la V0.11 sur téléphone physique reste à effectuer.
+
+Les empreintes SHA-256 sont dans `SHA256SUMS.txt` et dans chaque dossier de version.
 
 ## Contenu de ce dépôt
 
-Ce dépôt est dédié à la distribution des APK et aux notes de version. Les sources de l’application sont conservées hors de ce dépôt public.
+Ce dépôt est dédié aux APK, aperçus et notes de version. Les sources Android et les clés restent hors de ce dépôt public.

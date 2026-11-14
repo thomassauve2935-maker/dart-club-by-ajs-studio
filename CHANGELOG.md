@@ -1,5 +1,16 @@
 # Notes de version
 
+## V0.11 — 14 novembre 2026
+
+Version de test `0.11.0-club-test`, code 12, Android 8.0 minimum.
+
+- Palette claire bleutée, cartes de jeux colorées et statistiques en bleu, vert, violet et ambre.
+- Publicités de démonstration retirées ; annonces désactivées dans toutes les variantes.
+- Initialisation automatique AdMob et App ID de démonstration retirés du manifeste final.
+- Future politique préparée : bandeau et une occasion d’annonce après chaque match terminé et sauvegardé, jamais entre deux legs. Annulation/reprise sans doublon.
+- 22 tests réussis et rapport Android Lint sans erreur ni avertissement.
+- Signature de test conservée depuis la V0.10 pour permettre la mise à jour sans désinstallation.
+
 ## V0.10 — 14 novembre 2026
 
 Version de test `0.10.0-club-test`, code 11, pour Android 8.0 et versions ultérieures.
