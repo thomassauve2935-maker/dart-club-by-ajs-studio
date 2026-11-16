@@ -1,5 +1,18 @@
 # Notes de version
 
+## V0.14 — 16 novembre 2026
+
+Version de test `0.14.0-languages-test`, code 15, Android 8.0 minimum.
+
+- Français, anglais et espagnol : 278 entrées complètes, dont les règles des quinze jeux, les dialogues, les statistiques et le partage.
+- Choix de langue dans les réglages, détection de la langue du téléphone et persistance du choix manuel.
+- Pluriels, moyennes et descriptions d’accessibilité localisés.
+- Noms de profils et journal de lancers préservés lors d’un changement de langue.
+- Choix de langue inclus dans les sauvegardes, avec compatibilité des fichiers V0.13.
+- Quatre thèmes et publicités désactivées conservés.
+- 49 tests réussis, Android Lint sans erreur ni avertissement ; signature identique à la V0.13 pour mettre à jour sans désinstallation.
+- Rendus Android vérifiés ; essai sur téléphone physique restant à effectuer.
+
 ## V0.13 — 16 novembre 2026
 
 Version de test `0.13.0-club-test`, code 14, Android 8.0 minimum.
