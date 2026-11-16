@@ -1,5 +1,19 @@
 # Notes de version
 
+## V0.13 — 16 novembre 2026
+
+Version de test `0.13.0-club-test`, code 14, Android 8.0 minimum.
+
+- Quatre thèmes mémorisés : Club clair, Sisal, Vert tournoi et Club nuit.
+- Boutons et cartes animés, retours sur le score et le joueur actif, 180 et fin du match.
+- Sons, volume et vibrations réglables ; mode silencieux respecté et option de réduction des animations.
+- Reprise avec scores, derniers réglages et résumé fixe avant Commencer.
+- Partage d’une carte PNG du résultat pour 1 à 8 joueurs via le sélecteur Android.
+- Export/import des profils, statistiques, réglages et partie en cours, avec validation avant restauration et journal de récupération.
+- Logo et règles conservés ; publicités désactivées ; statistiques doubles/triples inchangées.
+- 39 tests réussis, Android Lint sans erreur ni avertissement ; signature de test conservée pour mettre à jour sans désinstallation.
+- Rendus et vérifications automatisées ; essai sur téléphone physique restant à effectuer.
+
 ## V0.12 — 14 novembre 2026
 
 Version de test `0.12.0-club-test`, code 13, Android 8.0 minimum.
